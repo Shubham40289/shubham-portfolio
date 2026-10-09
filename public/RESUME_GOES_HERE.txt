@@ -1,0 +1,2 @@
+Copy your real CV PDF into this folder and name it exactly: resume.pdf
+The "Resume" buttons on the site link to /resume.pdf.
